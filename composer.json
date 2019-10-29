@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "luxury-watches\\": "vendor/luxury-watches",
+      "app\\" : "app"
+    }
+  },
+  "require": {
+
+  }
+}
