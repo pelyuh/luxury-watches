@@ -1,2 +1,3 @@
 <?php
-echo "Hello";
+
+require_once '../config/init.php';
