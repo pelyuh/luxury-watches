@@ -9,7 +9,7 @@ class ComposerStaticInit02f41d0eeff3361f00f826640aa8af4b
     public static $prefixLengthsPsr4 = array (
         'l' => 
         array (
-            'luxury-watches\\' => 15,
+            'luxury\\' => 7,
         ),
         'a' => 
         array (
@@ -18,9 +18,9 @@ class ComposerStaticInit02f41d0eeff3361f00f826640aa8af4b
     );
 
     public static $prefixDirsPsr4 = array (
-        'luxury-watches\\' => 
+        'luxury\\' => 
         array (
-            0 => __DIR__ . '/..' . '/luxury-watches',
+            0 => __DIR__ . '/..' . '/luxury-watches/core',
         ),
         'app\\' => 
         array (

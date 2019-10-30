@@ -6,6 +6,6 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'luxury-watches\\' => array($vendorDir . '/luxury-watches'),
+    'luxury\\' => array($vendorDir . '/luxury-watches/core'),
     'app\\' => array($baseDir . '/app'),
 );

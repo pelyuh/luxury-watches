@@ -1,7 +1,7 @@
 {
   "autoload": {
     "psr-4": {
-      "luxury-watches\\": "vendor/luxury-watches",
+      "luxury\\": "vendor/luxury-watches/core",
       "app\\" : "app"
     }
   },
